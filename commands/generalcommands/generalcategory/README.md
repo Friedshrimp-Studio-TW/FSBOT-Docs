@@ -17,26 +17,26 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令分類中一般指令�
 |   `/search`  |    搜尋\[`Google提供支援`]   |   無  |
 | `/discordid` |    查看自己的Discord用戶ID    |   無  |
 
-{% content-ref url="generalcategory.md" %}
-[generalcategory.md](generalcategory.md)
+{% content-ref url="help.md" %}
+[help.md](help.md)
 {% endcontent-ref %}
 
-{% content-ref url="ping-zhi-ling.md" %}
-[ping-zhi-ling.md](ping-zhi-ling.md)
+{% content-ref url="ping.md" %}
+[ping.md](ping.md)
 {% endcontent-ref %}
 
-{% content-ref url="feedback-zhi-ling.md" %}
-[feedback-zhi-ling.md](feedback-zhi-ling.md)
+{% content-ref url="feedback.md" %}
+[feedback.md](feedback.md)
 {% endcontent-ref %}
 
-{% content-ref url="fsbotstar-zhi-ling.md" %}
-[fsbotstar-zhi-ling.md](fsbotstar-zhi-ling.md)
+{% content-ref url="fsbotstar.md" %}
+[fsbotstar.md](fsbotstar.md)
 {% endcontent-ref %}
 
-{% content-ref url="search-zhi-ling.md" %}
-[search-zhi-ling.md](search-zhi-ling.md)
+{% content-ref url="search.md" %}
+[search.md](search.md)
 {% endcontent-ref %}
 
-{% content-ref url="discordid-zhi-ling.md" %}
-[discordid-zhi-ling.md](discordid-zhi-ling.md)
+{% content-ref url="discordid.md" %}
+[discordid.md](discordid.md)
 {% endcontent-ref %}

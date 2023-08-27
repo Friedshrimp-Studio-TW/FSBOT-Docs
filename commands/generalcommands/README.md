@@ -12,8 +12,8 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔
 
 * :star:一般指令
 
-{% content-ref url="yi-ban-zhi-ling-fen-lei/" %}
-[yi-ban-zhi-ling-fen-lei](yi-ban-zhi-ling-fen-lei/)
+{% content-ref url="generalcategory/" %}
+[generalcategory](generalcategory/)
 {% endcontent-ref %}
 
 * :star:有趣小指令
