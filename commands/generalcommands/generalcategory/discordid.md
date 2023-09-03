@@ -9,13 +9,13 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔(一般分類)
 {% endhint %}
 
 > 查看自己的Discord用戶ID\
-> 在Discord每個人都有一組獨一無二的ID，不知道怎麼查詢?那就使用這個指令吧!
+> 在Discord每個人都有一組獨一無二的ID，不知道怎麼查詢?那就使用這個指令吧!\
+> \
+> **所需權限:** 無
 
 <figure><img src="../../../.gitbook/assets/螢幕擷取畫面 2023-08-26 214837.png" alt="/discordid 指令使用後的顯示"><figcaption><p>/discordid 指令使用後的顯示</p></figcaption></figure>
 
 ### :star:此指令本地化 | This Command Localized
-
-
 
 {% tabs %}
 {% tab title="指令 | Command" %}

@@ -9,7 +9,9 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔(一般分類)
 {% endhint %}
 
 > 查看 **炸蝦機器人-FSBOT** 系統資訊!\
-> 可以了解目前機器人的延遲與總群組、總用戶等等相關資訊!
+> 可以了解目前機器人的延遲與總群組、總用戶等等相關資訊!\
+> \
+> **所需權限:** 無
 
 <figure><img src="../../../.gitbook/assets/螢幕擷取畫面 2023-08-26 211539.png" alt="/ping 指令使用後的顯示"><figcaption><p>/ping 指令使用後的顯示</p></figcaption></figure>
 
