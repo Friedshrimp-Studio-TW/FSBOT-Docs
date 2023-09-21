@@ -16,7 +16,7 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔(一般分類)
 
 
 
-<figure><img src="../../../.gitbook/assets/search.png" alt="/search 指令使用後的查詢結果"><figcaption><p>/search 指令使用後的查詢結果</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/螢幕擷取畫面 2023-08-26 214406.png" alt="/search 指令使用後的查詢結果"><figcaption><p>/search 指令使用後的查詢結果</p></figcaption></figure>
 
 ### :star:此指令本地化 | This Command Localized
 

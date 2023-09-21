@@ -18,8 +18,8 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔
 
 * :star:有趣小指令
 
-{% content-ref url="funcategory/" %}
-[funcategory](funcategory/)
+{% content-ref url="you-qu-xiao-zhi-ling-fen-lei/" %}
+[you-qu-xiao-zhi-ling-fen-lei](you-qu-xiao-zhi-ling-fen-lei/)
 {% endcontent-ref %}
 
 * :star:網路相關指令

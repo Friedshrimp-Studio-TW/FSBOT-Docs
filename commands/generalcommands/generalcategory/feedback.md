@@ -14,7 +14,7 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔(一般分類)
 > \
 > **所需權限:** 無
 
-<figure><img src="../../../.gitbook/assets/feedback.png" alt="/feedback 指令使用後的表單"><figcaption><p>/feedback 指令使用後的表單</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/螢幕擷取畫面 2023-08-26 212714.png" alt="/feedback 指令使用後的表單"><figcaption><p>/feedback 指令使用後的表單</p></figcaption></figure>
 
 ### :star:此指令本地化 | This Command Localized
 

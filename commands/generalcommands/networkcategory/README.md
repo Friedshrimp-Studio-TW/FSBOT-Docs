@@ -22,3 +22,6 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔(網路相關指�
 [whois.md](whois.md)
 {% endcontent-ref %}
 
+{% content-ref url="portcheck.md" %}
+[portcheck.md](portcheck.md)
+{% endcontent-ref %}
