@@ -17,15 +17,20 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔
 {% endcontent-ref %}
 
 * :star:有趣小指令
-* :star:詳細資訊指令
+
+{% content-ref url="funcategory/" %}
+[funcategory](funcategory/)
+{% endcontent-ref %}
+
 * :star:網路相關指令
+
+{% content-ref url="networkcategory/" %}
+[networkcategory](networkcategory/)
+{% endcontent-ref %}
+
+* :star:詳細資訊指令
 * :star:Minecraft相關指令
 * :star:炸蝦幣相關指令-尚未完全實施
-
-|       指令       |    指令描述    | 所需權限 |
-| :------------: | :--------: | :--: |
-| `/fun jpanimu` |  查看日本動漫圖!  |   無  |
-|  `/fun animal` | 查看一些動物的圖片! |   無  |
 
 |       指令      |         指令描述         | 所需權限 |
 | :-----------: | :------------------: | :--: |
@@ -34,12 +39,6 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔
 | `/info guild` |       查看群組詳細資訊!      |   無  |
 | `/info emoji` |      查看表情符號詳細資訊!     |   無  |
 | `/info fsbot` | 查看 炸蝦機器人-FSBOT 詳細資訊! |   無  |
-
-|          指令          |        指令描述       | 所需權限 |
-| :------------------: | :---------------: | :--: |
-|    `/network ip地址`   |    查看IP地址或網域資訊!   |   無  |
-|   `/network whois`   | 查看IP地址或網域Whois資訊! |   無  |
-| `/network portcheck` |   查看IP或網域端口是否開放!  |   無  |
 
 |             指令             |           指令描述           | 所需權限 |
 | :------------------------: | :----------------------: | :--: |

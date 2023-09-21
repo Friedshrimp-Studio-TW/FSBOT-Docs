@@ -13,7 +13,7 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔(一般分類)
 > \
 > **所需權限:** 無
 
-<figure><img src="../../../.gitbook/assets/螢幕擷取畫面 2023-08-26 211539.png" alt="/ping 指令使用後的顯示"><figcaption><p>/ping 指令使用後的顯示</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ping.png" alt="/ping 指令使用後的顯示"><figcaption><p>/ping 指令使用後的顯示</p></figcaption></figure>
 
 ### :star:此指令本地化 | This Command Localized
 

@@ -13,10 +13,10 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔(有趣小指令�
 | `/fun jpanimu` |  查看日本動漫圖!  |   無  |
 |  `/fun animal` | 查看一些動物的圖片! |   無  |
 
-{% content-ref url="fun-jpanimu-zhi-ling.md" %}
-[fun-jpanimu-zhi-ling.md](fun-jpanimu-zhi-ling.md)
+{% content-ref url="jpanimu.md" %}
+[jpanimu.md](jpanimu.md)
 {% endcontent-ref %}
 
-{% content-ref url="fun-animal-zhi-ling.md" %}
-[fun-animal-zhi-ling.md](fun-animal-zhi-ling.md)
+{% content-ref url="animal.md" %}
+[animal.md](animal.md)
 {% endcontent-ref %}

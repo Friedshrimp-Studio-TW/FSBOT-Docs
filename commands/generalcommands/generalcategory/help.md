@@ -15,7 +15,7 @@ description: 此處為 炸蝦機器人-FSBOT 一般指令文檔(一般分類)
 
 <div data-full-width="true">
 
-<figure><img src="../../../.gitbook/assets/螢幕擷取畫面 2023-08-26 185649.png" alt="/help 指令使用後的顯示"><figcaption><p>/help 指令使用後的顯示</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/help.png" alt="/help 指令使用後的顯示"><figcaption><p>/help 指令使用後的顯示</p></figcaption></figure>
 
 </div>
 
